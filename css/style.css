@@ -1,24 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 body {
-  background-color: #493e63;
-  /*background: url("../images/travelworthy-backdrop.jpg") no-repeat center center fixed;
+  background-color: #60c278;
+  background: url("../images/me.pencaBeach.CR2018.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;*/
+  background-size: cover;
   margin: 0;
   font-family: 'Open Sans', sans-serif;}
 
-h1 {
-  background: #f112f1 url("../images/PurpleRain-logo.png") no-repeat;
-  width: 210px;
-  height: 120px;
-  float: left;
-  text-indent: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-  margin: 0;}
 
 h2 {
   margin: 1.75em 0 0 0;
@@ -46,7 +37,7 @@ p + h2 {
 /* black bar across the right hand side of the page */
 
 #info {
-  background-color: #823c82;
+  background-color: #5f60c4;
   color: #fff;
   width: 200px;
   padding: 0 15px;
